@@ -8,7 +8,9 @@ key : f5SZqtC--uRyIGdaVhCESa1uksZROUMYQvHnxiz9tw
 
 
 〢 Video Showcase
-https://github.com/A1KK0X/MACRO-STRAFE-FOR-FIVEM/blob/main/video.mp4
+![ezgif-3-d040f4a563](https://github.com/rsevdark/MACRO-STRAFE-FOR-FIVEM/assets/162686540/4c349829-d011-4687-b1c9-22329080edf1)
+
+
 
 ## 👍Leave a STAR
 
